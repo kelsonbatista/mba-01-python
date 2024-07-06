@@ -16,3 +16,5 @@
 
 # pip install black  - formata o arquivo automaticamente e deixa mais legivel
 # pip install flake8 - acusa problemas no codigo
+
+# Para rodar um codigo: python3 arquivo.py
